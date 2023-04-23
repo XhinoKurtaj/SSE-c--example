@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SSE-Sender-Receiver.props" />
+</Project>
